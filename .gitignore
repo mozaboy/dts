@@ -1,7 +1,10 @@
 /.gradle/
 .DS_Store
 
+bin/
 target/
+tmp/
+
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
