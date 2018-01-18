@@ -13,7 +13,6 @@
 		<module>dts-remoting</module>
 		<module>dts-datasource</module>
 		<module>dts-parser</module>
-		<module>dts-rm-rabbit</module>
 		<module>dts-rm-rocketmq</module>
 		<module>dts-rm</module>
 		<module>dts-microservice-support</module>
