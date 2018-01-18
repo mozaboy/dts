@@ -16,11 +16,6 @@
 * Dts Client：事务发起者。通过事务协调器，开启、提交、回滚分布式事务
 * Dts Resource：资源，包括数据库、MQ
 
-# 架构方案
-  * 架构图，如下所示
-  ![架构图](architecture.png)
-  * 流程图
-  ![流程图](flow.png)
 
 # Compile
 ```
