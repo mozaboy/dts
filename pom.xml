@@ -13,9 +13,8 @@
 		<module>dts-remoting</module>
 		<module>dts-datasource</module>
 		<module>dts-parser</module>
-		<module>dts-rm-rabbit</module>
 		<module>dts-rm-rocketmq</module>
-		<module>dts-resourcemanager</module>
+		<module>dts-rm</module>
 		<module>dts-microservice-support</module>
 		<module>dts-example</module>
 	</modules>
@@ -55,7 +54,7 @@
 			</dependency>
 			<dependency>
 				<groupId>io.dts</groupId>
-				<artifactId>dts-resourcemanager</artifactId>
+				<artifactId>dts-rm</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 			<dependency>

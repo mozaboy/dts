@@ -8,8 +8,8 @@
 		<artifactId>dts</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>dts-resourcemanager</artifactId>
-	<name>dts-resourcemanager</name>
+	<artifactId>dts-rm</artifactId>
+	<name>dts-rm</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
